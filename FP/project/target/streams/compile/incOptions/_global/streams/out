@@ -1,2 +1,2 @@
-[debug] Created transactional ClassFileManager with tempDir = D:\Scala-FunctionalProramming\FP\project\target\scala-2.12\sbt-1.0\classes.bak
-[debug] Removing the temporary directory used for backing up class files: D:\Scala-FunctionalProramming\FP\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] Created transactional ClassFileManager with tempDir = /media/samadpls/ubuntu/scala/Scala-FunctionalProramming/FP/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] Removing the temporary directory used for backing up class files: /media/samadpls/ubuntu/scala/Scala-FunctionalProramming/FP/project/target/scala-2.12/sbt-1.0/classes.bak

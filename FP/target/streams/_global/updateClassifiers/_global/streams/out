@@ -1,3 +1,4 @@
-[debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/D:/Scala%20FP/FP/"), "root")...
-[debug] Done updating ProjectRef(uri("file:/D:/Scala%20FP/FP/"), "root")
+[warn] scala-library-2.13.10-sources.jar no longer exists at /C:/Users/MMC/AppData/Local/Coursier/Cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/media/samadpls/ubuntu/scala/Scala-FunctionalProramming/FP/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/media/samadpls/ubuntu/scala/Scala-FunctionalProramming/FP/"), "root")
